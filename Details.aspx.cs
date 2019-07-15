@@ -13,7 +13,7 @@ namespace WebApplication1
         {
             if (!IsPostBack) { txtName.Focus(); }
 			//hello akkadunavu//
-
+            Calendar1.Visible = true;
 
         }
 
